@@ -32,3 +32,6 @@ Once the extension is installed, simply use it in your code by  :
             'data' => \yii\helpers\ArrayHelper::getColumn(\app\models\Tag::find()->asArray()->all(),'title')
     ]) ?>
 ```
+
+tagsinput
+https://github.com/xinyeweb/yii2-tagsinput
